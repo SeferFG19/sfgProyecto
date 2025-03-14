@@ -83,7 +83,11 @@
                     
                     <!-- Name -->
                     <div class="page-scroll site-logo">
+<<<<<<< HEAD
                         <a href="#top">Pepe</a>
+=======
+                        <a href="#top">Sergio</a>
+>>>>>>> Angel2
                     </div>
 
                 </div><!-- /.navbar-header -->
